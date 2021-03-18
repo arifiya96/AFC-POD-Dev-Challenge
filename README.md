@@ -3,11 +3,10 @@ Dev challenge for shortlisted candidates
 
 All the instructions for each particular task will be in the MD file in each of the task folders. Begin by forking this repo and making a copy on your local machine.
 
-Here is a guide to how long we realistically feel that each task should take. We understand that you have other commitments and things you need to get done. 
-Task 1 - 20 minutes. This may depend on how much experience you have with backend technology stacks and databases. 
-Task 2 - 30 minutes. Some developers may take longer but this will depend on experience. You may take a while to do this because you are referring to the docs. Please do not worry 
-about styling, a MVP submission will do. 
-Task 3 - 15 minutes. If you have seen this problem before, this may not take long.
+Here is a guide to how long we realistically feel that each task should take. We understand that you have other commitments and things you need to get done. <br>
+- Task 1 - 20 minutes. This may depend on how much experience you have with backend technology stacks and databases. 
+- Task 2 - 30 minutes. Some developers may take longer but this will depend on experience. You may take a while to do this because you are referring to the docs. Please do not worry about styling, a MVP submission will do. 
+- Task 3 - 15 minutes. If you have seen this problem before, this may not take long.
 
 Estimated timeframe: 1 hour 5 minutes.
 
